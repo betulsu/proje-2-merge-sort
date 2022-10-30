@@ -27,3 +27,6 @@
 log n = x 
 
 eleman bazlı ele alındığından O(nlogn)dir.
+
+
+[Patika.dev](https://www.patika.dev/tr)
